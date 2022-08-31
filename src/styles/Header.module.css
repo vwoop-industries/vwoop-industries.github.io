@@ -1,0 +1,5 @@
+.hover\:trans::hover {
+	background-image: linear-gradient(90deg, #99baca, #e5beb4, #f7f5f4, #e5beb4, #99baca);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
